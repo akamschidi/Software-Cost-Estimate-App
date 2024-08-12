@@ -1,0 +1,18 @@
+Create a cost estimate app for a software agency. The app should have a list of services
+the agency offers and the cost of each service. A customer will select from the list
+of serivces available and get a final cost invoice for the cost estimate. 
+
+List of services offered and cost:
+
+. E-mail Login = $1400
+. Social Login = $2800
+. Dashboard = $1500
+. Rating System = $2000
+. Photos/ Camera = $1200
+. Messaging = 1800
+. QR Code = $2200
+. 3rd Party API Integration = $3000
+. SMS Integration = $900
+. Shopping Cart = $1000
+. User Administration = $1350
+. Ticketing System = $1150
